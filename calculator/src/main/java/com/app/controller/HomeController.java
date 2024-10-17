@@ -1,5 +1,6 @@
 package com.app.controller;
 
+@RestController
 public class HomeController {
 	
 	public void m1()
